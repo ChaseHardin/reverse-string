@@ -1,0 +1,21 @@
+{
+  "name": "reverse-string",
+  "version": "1.0.0",
+  "description": "Reverse string kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "reverse-string",
+    "kata",
+    "Chase",
+    "Hardin"
+  ],
+  "author": "Chase Hardin",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
